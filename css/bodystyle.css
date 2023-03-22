@@ -1,0 +1,18 @@
+
+.testimonial-content
+{
+  border: 1px solid #000000;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+}
+.objhead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.testimonial{
+    font-size: larger;
+    background-image: url(../images/background.jpg);
+    font-family:cursive,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+
+}
