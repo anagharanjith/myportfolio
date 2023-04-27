@@ -6,6 +6,17 @@
   padding: 5px;
   width: 250px;
 }
+
+a{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+}
+
+nav {
+  font-size: 23px;
+  color: #8f0f77;
+}
+
 .objhead{
     font-family: Arial, Helvetica, sans-serif;
     font-size: x-large;
